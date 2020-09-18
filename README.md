@@ -9,9 +9,12 @@ Once upon a time, something happened in 1B
 :bread:
 :croissant:
 :sandwich:
-:steak:
+:fortune_cookie:
 :pizza:
 :rice:
 :rice_ball:
-:japan:
-:chilli:
+:cupcake:
+:chocolate_bar:
+:cookie:
+:candy:
+:ice_cream:
