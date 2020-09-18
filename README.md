@@ -3,8 +3,17 @@ hello world!
 README.md
 ### WELCOME!
 :smile: :icecream:
-Once upon a time, something happened in 1B
-:coin:
+Once upon a time, something happened in 1B. There are awesome teachers in 1B.
+##### Ms Poh
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
 :waffle:
 :bread:
 :croissant:
